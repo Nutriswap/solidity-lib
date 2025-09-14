@@ -6,6 +6,15 @@
     "contracts",
     "!contracts/test"
   ],
+  "keywords": [
+    "nutriswap",
+    "solidity",
+    "dex",
+    "ethereum",
+    "library",
+    "v2",
+    "v3"
+  ],
   "homepage": "https://nutriswap.link",
   "repository": {
     "url": "https://github.com/Nutriswap/nutriswap-lib",
